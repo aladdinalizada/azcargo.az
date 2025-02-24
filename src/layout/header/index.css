@@ -1,0 +1,12 @@
+/* Basic styling for the header */
+.headerContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.headerContainer .logo {
+  width: 220px;
+  height: 42px;
+}
